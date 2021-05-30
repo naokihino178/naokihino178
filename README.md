@@ -9,6 +9,7 @@ I want to be a Front End Developer.
 - TypeScript
 - React.js
 - Express
-- Firebase
+- Firebase(Authentication, Cloud Firestore, Storage)
 
 # Portfolio
+https://my-portfolio-omega-nine.vercel.app/
