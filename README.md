@@ -2,20 +2,20 @@
 フロントエンドエンジニアを目指しています。
 
 # Skill
-## マークアップ言語
+### マークアップ言語
 - HTML
 - CSS
-## プログラミング言語
+### プログラミング言語
 - JavaScript
 - TypeScript
-## フレームワーク、ライブラリ
+### フレームワーク、ライブラリ
 - React.js
 - Redux
 - Next.js
 - Express
-## データベース
+### データベース
 - Firebase(Cloud Firestore)
-## その他
+### その他
 - Firebase(Authentication, Storage, Hosting)
 - Git
 - GitHub
