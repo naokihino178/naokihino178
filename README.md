@@ -1,15 +1,24 @@
 # About Me
-I'm Naoki Hino.
-I want to be a Front End Developer.
+フロントエンドエンジニアを目指しています。
 
 # Skill
+## マークアップ言語
 - HTML
 - CSS
+## プログラミング言語
 - JavaScript
 - TypeScript
+## フレームワーク、ライブラリ
 - React.js
+- Redux
+- Next.js
 - Express
-- Firebase(Authentication, Cloud Firestore, Storage)
+## データベース
+- Firebase(Cloud Firestore)
+## その他
+- Firebase(Authentication, Storage, Hosting)
+- Git
+- GitHub
 
 # Portfolio
 https://my-portfolio-omega-nine.vercel.app/
