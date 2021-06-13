@@ -11,12 +11,16 @@
 ### フレームワーク、ライブラリ
 - React.js
 - Redux
+- Material-UI
 - Next.js
 - Express
 ### データベース
+- MySQL
 - Firebase(Cloud Firestore)
 ### その他
 - Firebase(Authentication, Storage, Hosting)
+- Heroku
+- CircleCI
 - Git
 - GitHub
 
