@@ -17,7 +17,7 @@ https://quizapp-taupe.vercel.app/
 - 作曲アプリ  
 （React, TypeScript, Firebase）  
 https://composition-app.vercel.app  
-レシピ管理アプリ
+-レシピ管理アプリ
 （JavaScript(EJS), Express, MySQL, CircleCI, Heroku）  
 https://orenosetsuyakumeshi.herokuapp.com/  
 
