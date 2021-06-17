@@ -34,7 +34,6 @@ https://orenosetsuyakumeshi.herokuapp.com/
 - React.js
 - Redux
 - Material-UI
-- Next.js
 - Express
 ### データベース
 - MySQL
